@@ -6,7 +6,7 @@ Tic-toc-toe on the command-line, written in Python.
 
 ```
 git clone https://github.com/mcmangini/py-tic-tac-toe.git
-cd src
+cd py-tic-tac-toe/src
 python3 tictactoe.py
 ```
 
