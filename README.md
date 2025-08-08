@@ -18,3 +18,5 @@ python3 tictactoe.py
     - Play against a CPU.
 - Zero-Player
     - Have two CPUs play each other.
+
+CPUs have four difficulty settings. Level 4 is unbeatable!
