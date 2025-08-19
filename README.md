@@ -2,7 +2,7 @@
 
 Tic-toc-toe on the command-line, written in Python.
 
-## Usage
+## Installation and Usage
 
 ```
 git clone https://github.com/mcmangini/py-tic-tac-toe.git
